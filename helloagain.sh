@@ -1,5 +1,5 @@
 #!/bin/sh
 
-message="hello again"
+message="hello agains"
 
 echo $message
